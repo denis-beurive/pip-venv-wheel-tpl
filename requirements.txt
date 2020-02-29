@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+clint==0.5.1

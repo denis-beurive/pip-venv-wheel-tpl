@@ -1,0 +1,6 @@
+[REPORTS]
+output-format=parseable
+reports = no
+
+[MESSAGES CONTROL]
+disable=R0903,R0801
